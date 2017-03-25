@@ -19,6 +19,7 @@ header {
 
 header h1 {
   padding-top: 2.5%;
+  color: blue;
 }
 
 aside {
@@ -45,4 +46,13 @@ footer {
 aside ul li {
   margin: 1.5% 0;
   line-height: 1.5;
+}
+
+#biog {
+  font-size: 30px;
+  color: purple;
+}
+.special {
+  color: tomato;
+  text-align: center;
 }
