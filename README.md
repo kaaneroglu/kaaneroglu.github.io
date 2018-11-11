@@ -1,2 +1,2 @@
 # kaaneroglu.github.io
-www.kaan.ca
+Files for my static personal web site www.kaan.ca
